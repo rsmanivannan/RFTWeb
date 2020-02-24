@@ -1,0 +1,7 @@
+eclipsehome=C:/Program Files/IBM/SDP/
+plugins=C:\Program Files\IBM\IBMIMShared\plugins
+workspace=C:/Users/ManivannanSabarajan/Desktop/Project/ENEA
+project=project1
+suite=Tests/S5.testsuite
+exportlogmillis=false
+overwrite=false

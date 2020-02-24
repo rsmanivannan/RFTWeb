@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inits id="N3B311B0036611EA90AABA8F01093011" type="com.ibm.rational.test.ft.aftsuite">
+	<group>
+		<tests>
+			<test path="/project1/Compound Tests/FlightBookingCTest.testsuite"/>
+		</tests>
+		<browsers>
+			<browser name="chrome"/>
+			<variable_init value="chrome(Perfecto:9EB54791)" name="RTW_WebUI_Browser_Selection"/>   
+            <variable_init value="chrome(Perfecto:899)" name="RTW_WebUI_Browser_Selection"/>
+		</browsers>
+	</group>
+</inits>
